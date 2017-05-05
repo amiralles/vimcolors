@@ -28,7 +28,7 @@ hi Special    guifg=#5F005F guibg=NONE    ctermfg=53  ctermbg=NONE
 hi Directory  guifg=#5F005F guibg=NONE    ctermfg=53  ctermbg=NONE
 
 " Comments
-hi Comment    guifg=#048c17 guibg=NONE    ctermfg=65  ctermbg=NONE
+hi Comment    guifg=#048c17 guibg=NONE gui=italic   ctermfg=65  ctermbg=NONE
 hi Todo       guifg=#333333 guibg=NONE    ctermfg=0   ctermbg=NONE
 
 " CSharp
